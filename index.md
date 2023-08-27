@@ -32,7 +32,7 @@ href="https://doi.org/10.1016/j.ejmech.2022.114582"><span style='color:#954F72'>
 
 <span style="font-size:1.35em;">
 <b><font color="red">2020</font></b><br>
-<b>Sonam Jha</b> , Buyun Kim, Ji Hae Seo, Chul-Ho Jeong, Sooyeun Lee, Sangkil Lee, Young Ho Seo, and Byoungduck Park.
+<b>Sonam Jha</b>, Buyun Kim, Ji Hae Seo, Chul-Ho Jeong, Sooyeun Lee, Sangkil Lee, Young Ho Seo, and Byoungduck Park.
 MeBib Suppressed Methamphetamine Self-Administration Response via Inhibition of BDNF/ERK/CREB Signal Pathway in the Hippocampus,
 <b>Biomolecules & Therapeutics, 2020</b> [<a 
 href="https://doi.org/10.4062/biomolther.2020.041"><span style='color:#954F72'>paper</span></a>]
