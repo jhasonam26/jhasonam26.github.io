@@ -18,32 +18,30 @@ My doctoral research focused on designing, synthesizing, purifying, and characte
 
 
 ## Publications
-<span style="font-size:1.35em;">
-<b><font color="red">2022</font></b><br>
-<b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
-Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction,
-<b>SIGKDD, 2022</b> [<a 
-href="https://doi.org/10.1145/3534678.3539386"><span style='color:#954F72'>paper</span></a>]
-<br><br> 
 
 <span style="font-size:1.35em;">
-<b><font color="red">2021</font></b><br>
-Richard D Jiles, <b>Mohna Chakraborty</b>.
-[Re] Domain Generalization using Causal Matching,
-<b>ML Reproducibility Challenge, 2021</b>: [<a 
-href="https://openreview.net/forum?id=r43elaGmhCY"><span style='color:#954F72'>paper</span></a>]
+<b><font color="red">2022</font></b><br>
+Hye Yun Chae, Sun You Park, <b>Sonam Jha</b>, Sunil K. Gupta, Mikyung Kim, Eunyoung Ha, and Young Ho Seo.
+Design, synthesis, and biological evalution of bifunctional inhibitors against Hsp90-HDAC6 interplay,
+<b>European Journal of Medicinal Chemistry, 2022</b>: [<a 
+href="https://doi.org/10.1016/j.ejmech.2022.114582"><span style='color:#954F72'>paper</span></a>]
 <br><br>
-Abhishek Kumar Mishra, <b>Mohna Chakraborty</b>. Does local pruning offer task-specific models to learn effectively?,
-<b>Proceedings of the Student Research Workshop Associated with RANLP, 2021</b>: [<a
-href="https://aclanthology.org/2021.ranlp-srw.17"><span style='color:#954F72'>paper</span></a>]
-<br><br>
-<b>Mohna Chakraborty</b>. Does reusing pre-trained NLP model propagate bugs?,
-<b>ESEC/FSE, 2021</b>: [<a
-href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper</span></a>]
-<br><br>
+
+<span style="font-size:1.35em;">
+<b><font color="red">2020</font></b><br>
+<b>Sonam Jha</b> , Buyun Kim, Ji Hae Seo, Chul-Ho Jeong, Sooyeun Lee, Sangkil Lee, Young Ho Seo, and Byoungduck Park.
+MeBib Suppressed Methamphetamine Self-Administration Response via Inhibition of BDNF/ERK/CREB Signal Pathway in the Hippocampus,
+<b>Biomolecules & Therapeutics, 2020</b> [<a 
+href="https://doi.org/10.4062/biomolther.2020.041"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
+
+
+
 
 
 ## Recent News!
+<!--
+
 <span style="font-size:1.35em;">
 <b>Sep '22</b>: Selected to represent Iowa State University for the prestigious and competitive Grace Hopper Celebration.<br>
 <br> <b>Aug '22</b>: Awarded Student Travel Award for SIGKDD 2022.<br>
@@ -61,4 +59,5 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 <br> <b>May '21</b>: Joined Epsilon as a PhD intern.<br>
 <br> <b>Aug '20</b>: Joined Ph.D. program at the Department of Computer Science at Iowa State University.<br></span>
 
+--> 
 
