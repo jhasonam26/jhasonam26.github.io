@@ -13,7 +13,7 @@
 I am currently a postdoctoral researcher in the <a href="https://scheidtgroup.northwestern.edu/">Scheidt Research Group</a> at Northwestern University, working under the supervision of <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=29727">Dr. Gary Schiltz</a> and <a href="https://chemistry.northwestern.edu/people/core-faculty/profiles/karl-scheidt.html">Dr. Karl A. Scheidt</a>.</span>
 
 <span style="font-size:1.35em;">
-Before joining Scheidt Research Group, I also worked also in the <a href="https://anlab.umbc.edu/principal-investigator/">Songon An Laboratory</a> at UMBC, Maryland, under the guidance of <a href="https://chemistry.umbc.edu/faculty/songon-an/">Dr. Songon An</a> and <a href="https://chemistry.umbc.edu/faculty/minjoung-kyoung/">Dr. Minjoung Kyoung</a>.</span>
+Before joining Scheidt Research Group, I also worked in the <a href="https://anlab.umbc.edu/principal-investigator/">Songon An Laboratory</a> at UMBC, Maryland, under the guidance of <a href="https://chemistry.umbc.edu/faculty/songon-an/">Dr. Songon An</a> and <a href="https://chemistry.umbc.edu/faculty/minjoung-kyoung/">Dr. Minjoung Kyoung</a>.</span>
 
 <span style="font-size:1.35em;">
 I completed my PhD degree in medicinal chemistry from Keimyung University, South Korea, under the mentorship of <a href="https://www.walshmedicalmedia.com/editor/young-ho-seo-10652">Dr. Young Ho Seo</a>.</span>
