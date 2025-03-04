@@ -10,7 +10,13 @@
 
 ## Welcome to Sonam Vinodkumar Jha's homepage
 <span style="font-size:1.35em;">
-I recently have joined the chemistry and biochemistry department at UMBC, Maryland, USA, as a postdoctoral researcher. This year in February, I completed my PhD degree in medicinal chemistry from Keimyung University, South Korea, under the mentorship of <a href="https://www.walshmedicalmedia.com/editor/young-ho-seo-10652">Dr. Young Ho Seo</a>.</span>
+
+I am currently a postdoctoral researcher in the <a href="https://scheidtgroup.northwestern.edu/">Scheidt Research Group</a></span> at Northwestern University, working under the supervision of <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=29727">Dr. Gary Schiltz</a></span> and <a href="https://chemistry.northwestern.edu/people/core-faculty/profiles/karl-scheidt.html">Dr. Karl A. Scheidt</a></span>.
+
+Before joining Scheidt Research Group, I also worked also in the <a href="https://anlab.umbc.edu/principal-investigator/">Songon An Laboratory</a></span> at UMBC, Maryland, under the guidance of <a href="https://chemistry.umbc.edu/faculty/songon-an/">Dr. Songon An</a></span> and <a href="https://chemistry.umbc.edu/faculty/minjoung-kyoung/">Dr. Minjoung Kyoung</a></span>.
+
+
+I completed my PhD degree in medicinal chemistry from Keimyung University, South Korea, under the mentorship of <a href="https://www.walshmedicalmedia.com/editor/young-ho-seo-10652">Dr. Young Ho Seo</a>.</span>
 
 <span style="font-size:1.35em;">
 My doctoral research focused on designing, synthesizing, purifying, and characterizing diverse small molecule inhibitors, including HDAC6 inhibitors, HSP90 inhibitors, and HDAC6-HSP90 dual inhibitors, aimed at targeted chemotherapeutic effects, primarily against cancer and drug addiction. Additionally, I engaged in the design and synthesis of complex molecules such as PROTAC degraders for HDAC6. My proficiency extends to synthesizing compounds at a large scale for in-vivo studies. Furthermore, I have conducted various cancer cell studies and in-vitro biological assays, encompassing MTS/MTT assays, HDAC enzyme assays, Western Blotting, Colony Formation, and FACs, to comprehensively evaluate the biological effects of the synthesized molecules. </span>
@@ -21,6 +27,23 @@ Presently, I am dedicated to unraveling the expression of glycolytic enzymes res
 
 
 ## Publications
+
+<span style="font-size:1.35em;">
+<b><font color="red">2025</font></b><br>
+Paige J Monsen, Prashant V Bommi, Arabela A Grigorescu, Kristen L Lauing, Yingyu Mao, Payton Berardi, Lijie Zhai, Oluwatomilayo Ojo, Manon Penco-Campillo, Taylor Koch, Michael Egozi, <b>Sonam Jha</b>, Sara F Dunne, Hong Jiang, Guiqin Song, Fang Zhang, Steven Kregel, Ali Vaziri-Gohar, Sean W Fanning, Pilar Sanchez-Gomez, Jacob M Allen, Bakhtiar Yamini, Rimas V Lukas, Derek A Wainwright, and Gary E Schiltz.
+Rational Design and Optimization of a Potent IDO1 Proteolysis Targeting Chimera (PROTAC),
+<b>Journal of Medicinal Chemistry, 2025</b>: [<a 
+href="https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.5c00026"><span style='color:#954F72'>paper</span></a>]
+<br><br>
+
+<span style="font-size:1.35em;">
+<b><font color="red">2024</font></b><br>
+<b>Sonam Jha</b>, Ji Hyun Kim, Mikyung Kim, Ai-Han Nguyen, Hashim Khan Ali, Sunil K Gupta, Sun You Park, Eunyoung Ha, and Young Ho Seo.
+Design, synthesis, and biological evaluation of HDAC6 inhibitors targeting L1 loop and serine 531 residue,
+<b>European Journal of Medicinal Chemistry, 2024</b>: [<a 
+href="https://www.sciencedirect.com/science/article/abs/pii/S0223523423010243?via%3Dihub"><span style='color:#954F72'>paper</span></a>]
+<br><br>
+
 
 <span style="font-size:1.35em;">
 <b><font color="red">2022</font></b><br>
